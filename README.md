@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 style="color:red;"> #node react angular typescript graphql python mongodb sql C# .NET </h2>
+<h2 style="color:red;"> # C# .NET Core - SQL Server - Node - React - Angular - TypeScript - GraphQL - Python - MongoDB </h2>
 <br />
